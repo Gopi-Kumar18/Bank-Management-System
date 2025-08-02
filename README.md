@@ -101,10 +101,10 @@ erDiagram
 - json web token (JWT)
 - Spring Data JPA
 - Lombok
-- PostgreSQL
+- MySQL
 - Maven 
 - Swagger
-- Docker
+- Docker(in Future)
 
 
 ## Contributing
