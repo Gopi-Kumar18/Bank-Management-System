@@ -18,7 +18,6 @@ The Bank Management System is a web-based application developed using Spring Boo
 
 ## Features
 
-- User-Friendly Web Interface: Enjoy a user-friendly web interface designed for both customers, crafted using Angular. Check out the frontend repository on [GitHub](https://github.com/Mohammed-eid35/bank-management-system-angular).
 - Authentication and Authorization: We prioritize security by implementing robust user authentication and authorization mechanisms, guaranteeing safe and controlled access to the system.
 - Multi-Account Support: Users have the convenience of creating up to three separate accounts within the system, catering to various financial needs and goals.
 - Comprehensive Account Details: Customers can easily access a wealth of information about their accounts, including balance summaries, card numbers, CVV numbers, and more. This empowers users with a clear overview of their financial status.
@@ -30,18 +29,18 @@ The Bank Management System is a web-based application developed using Spring Boo
 To run the Bank Management System locally, you will need the following:
 - Java 11 or higher
 - Maven
-- PostgreSQL
+- MySQL
 
 Once you have the required tools installed, follow these steps to install the Bank Management System:
 
 1. Clone this repository:
     ```shell
-       git clone https://github.com/Mohammed-eid35/bank-management-system-springboot.git
+       git clone https://github.com/Gopi-Kumar18/Bank-Management-System.git
     ```
 2. Edit the database configurations in application.properties file.
 3. Navigate to the project directory:
     ```shell
-    cd bank-management-system-springboot
+    cd bank-management-system
     ```
 4. Build and run the application using Maven
     ```shell
